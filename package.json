@@ -1,0 +1,13 @@
+{
+    "name": "truncate.js",
+    "description": "HTML truncation and toggling",
+    "version": "2.1",
+    "author": "gitastrophe",
+    "main": "jquery.truncate.js",
+    "dependencies": { },
+    "devDependencies": { },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:kuehlhaus/truncate.js.git"
+    }
+}

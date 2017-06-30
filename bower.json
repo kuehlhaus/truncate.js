@@ -1,7 +1,7 @@
 {
     "name": "truncate.js",
     "description": "HTML truncation and toggling",
-    "version": "2.1",
+    "version": "2.1.1",
     "author": "gitastrophe",
     "main": [
         "jquery.truncate.js"
